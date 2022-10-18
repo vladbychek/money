@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#all{
+    display: flex;
+    column-gap: 40px;
+    margin: 50px 0 0 50px;
+}
+button{
+    padding: 10px 20px;
+}
+#select_value{
+    width: 100px;
+    height: 20px;
+}
